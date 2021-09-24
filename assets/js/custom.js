@@ -105,7 +105,7 @@ function timer() {
 				seconds = 0;
 			}
 		// Update the timer in HTML with the time it takes the user to play the game
-		timeCounter.innerHTML = "<i class='fa fa-hourglass-start'></i>" + " Timer: " + minutes + " Mins " + seconds + " Secs" ;
+		timeCounter.innerHTML = "<i class='fa fa-hourglass-start'></i>" + " Timer: " + minutes + " Minuten " + seconds + " Sekunden " ;
 	}, 1000);
 }
 
