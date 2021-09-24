@@ -1,5 +1,5 @@
 // Array of Deck of Card Images
-const deckCards = ["eckenmonsti.png", "eckenmonsti.png", "eckenmonsti2.png", "eckenmonsti2.png", "kirschenmonsti.png", "kirschenmonsti.png", "kuerbismonsti.png", "kuerbismonsti.png", "schlangi.png", "schlangi.png", "schneckenmonsti.png", "schneckenmonsti.png", "stiefelmonsti.png", "stieffelmonsti.png", "zweifarbenmonsti.png", "zweifarbenmonsti.png"];
+const deckCards = ["eckenmonsti.png", "eckenmonsti.png", "eckenmonsti2.png", "eckenmonsti2.png", "kirschenmonsti.png", "kirschenmonsti.png", "kuerbismonsti.png", "kuerbismonsti.png", "schlangi.png", "schlangi.png", "schneckenmonsti.png", "schneckenmonsti.png", "stiefelmonsti.png", "stiefelmonsti.png", "zweifarbenmonsti.png", "zweifarbenmonsti.png"];
 
 // Global Arrays
 // Access the <ul> with class of .deck
